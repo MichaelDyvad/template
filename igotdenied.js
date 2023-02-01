@@ -1,3 +1,1 @@
-console.log("hardy")
-
-console.log("2x2x2x2x")
+console.log("i got denied im a street rider")
